@@ -112,7 +112,7 @@ Impact categories:
 
 ## Citation
 
-If using this pipeline, please cite: Cilingir et al. 2026
+If using this pipeline, please cite: Çilingir et al. 2025
 
 ## Contact
 
